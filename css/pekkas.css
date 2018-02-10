@@ -2,6 +2,7 @@
   margin-top: 30px;
   margin-bottom: 30px;
   text-align: center;
+  color: #fff;
 }
 .fa {
     padding: 20px;
@@ -17,4 +18,8 @@
 .sponsorenlogo{
   padding-top: 30px;
   padding-bottom: 30px;
+}
+.pekkastext {
+  color: #fff;
+  margin-bottom: 30px;
 }
